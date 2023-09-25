@@ -1,0 +1,21 @@
+/* Forms CSS */
+.main_header h1 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+
+.form_box .row {
+    align-items: center;
+}
+
+.form_box form input {
+    width: 80%;
+}
+
+input#exampleCheck1 {
+    width: 1rem;
+}
+.form_box img {
+    width: 90%;
+}
