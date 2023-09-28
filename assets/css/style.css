@@ -4,7 +4,6 @@
     margin-top: 2rem;
 }
 
-
 .form_box .row {
     align-items: center;
 }
@@ -16,6 +15,21 @@
 input#exampleCheck1 {
     width: 1rem;
 }
+
 .form_box img {
     width: 90%;
+}
+
+.form_box p {
+    margin: 0.5rem;
+}
+
+.form_box p span {
+    color: #0d6efd;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+#signup_form {
+    display: none;
 }
